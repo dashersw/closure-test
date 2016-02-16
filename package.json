@@ -1,0 +1,10 @@
+{
+  "name": "closure-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "google-closure-compiler": "^20160208.1.0",
+    "gulp": "^3.9.1"
+  },
+  "author": "Armagan Amcalar <armagan@amcalar.com",
+  "license": "ISC"
+}
