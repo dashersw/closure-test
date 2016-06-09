@@ -15,4 +15,4 @@ npm install
 
 Running `gulp` will produce the correct result.
 
-Commenting in the dependency mode setting and running `gulp` again produces the error, `"ERROR - required entry point "src/index" never provided"`
+Commenting in the dependency mode setting and running `gulp` again produces the error, `"ERROR - required entry point "index" never provided"`

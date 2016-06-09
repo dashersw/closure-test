@@ -13,7 +13,7 @@ gulp.task('default', function() {
             output_wrapper: '(function(){\n%output%\n}).call(this)',
             js_output_file: 'output.min.js',
             // dependency_mode: 'STRICT',
-            // entry_point: 'src/index'
+            // entry_point: 'index'
         })).
         pipe(gulp.dest('./'));
 });
