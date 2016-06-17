@@ -13,6 +13,6 @@ cd closure-test
 npm install
 ```
 
-Running `gulp` will produce the correct result.
+Running `gulp` will produce the error, `"ERROR - required entry point "./index" never provided"`.
 
-Commenting in the dependency mode setting and running `gulp` again produces the error, `"ERROR - required entry point "index" never provided"`
+Commenting out the dependency mode setting and running `gulp` again produces the correct result.
