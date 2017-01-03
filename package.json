@@ -2,7 +2,7 @@
   "name": "closure-test",
   "version": "1.0.0",
   "dependencies": {
-    "google-closure-compiler": "^20160517.1.0",
+    "google-closure-compiler": "^20161201.0.0",
     "gulp": "^3.9.1"
   },
   "author": "Armagan Amcalar <armagan@amcalar.com",
